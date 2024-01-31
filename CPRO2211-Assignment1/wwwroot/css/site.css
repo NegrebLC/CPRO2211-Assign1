@@ -1,0 +1,15 @@
+body {
+    margin: 20px;
+}
+
+h1, h4 {
+    color: navy;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
